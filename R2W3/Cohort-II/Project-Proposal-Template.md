@@ -99,9 +99,9 @@ EcoChain is a comprehensive platform that facilitates sustainable living through
 
 ### Individual Contribution Breakdown
 
-- Alice Johnson: Smart Contract Development
-- Bob Smith: Frontend Design and Implementation
-- Charlie Brown: Backend Development
+- : Smart Contract Development
+- : Frontend Design and Implementation
+- : Backend Development
 
 # Future Prospects and Conclusion
 
